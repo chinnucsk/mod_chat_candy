@@ -1,0 +1,3 @@
+[
+  {candy, ["chat"], controller_template, [ {template, "candy.tpl"} ]}
+].
